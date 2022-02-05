@@ -14,6 +14,8 @@ Write your design steps here
 ## OUTPUT:
 include your output screenshots 
 
-
+![output](./op1.jpg)
+![output](./op2.jpg)
+![output](./op3.jpg)
 ## Result:
 Thus a wire frame is designed for a given website.
